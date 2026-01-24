@@ -1,0 +1,17 @@
+# OS junk files
+[Tt]humbs.db
+*.DS_Store
+
+# Editor directories and files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs and databases
+*.log
+*.sqlite
+
+# Temporary files
+*.tmp
+*.bak
